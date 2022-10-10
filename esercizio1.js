@@ -128,8 +128,8 @@ let car5 = {
   model: "sport",
   licencePLate: "aaaa",
 };
-let changedCar2 = Object.assign(licencePLate2, "1111");
-console.log(changedCar2);
+// let changedCar2 = Object.assign(licencePLate2, "1111");
+// console.log(changedCar2);
 /* EXERCISE 9
  Create a variable called carsForRent and assign to it an array containing all the cars from the previous exercise.
 */
